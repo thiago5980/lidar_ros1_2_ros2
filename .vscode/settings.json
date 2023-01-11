@@ -1,0 +1,27 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/thiago/ros2_ws/install/turtlesim/lib/python3.8/site-packages",
+    "/home/thiago/ros2_ws/build/rospy_pub",
+    "/home/thiago/ros2_ws/install/rospy_pub/lib/python3.8/site-packages",
+    "/home/thiago/ros2_ws/build/not_class_node",
+    "/home/thiago/ros2_ws/install/not_class_node/lib/python3.8/site-packages",
+    "/home/thiago/ros2_ws/install/msg_srv_test/lib/python3.8/site-packages",
+    "/home/thiago/ros2_ws/install/interface_example/lib/python3.8/site-packages",
+    "/opt/ros/foxy/lib/python3.8/site-packages"
+  ],
+  "files.associations": {
+    "limits": "cpp",
+    "memory": "cpp",
+    "iostream": "cpp"
+  },
+  "python.analysis.extraPaths": [
+    "/home/thiago/ros2_ws/install/turtlesim/lib/python3.8/site-packages",
+    "/home/thiago/ros2_ws/build/rospy_pub",
+    "/home/thiago/ros2_ws/install/rospy_pub/lib/python3.8/site-packages",
+    "/home/thiago/ros2_ws/build/not_class_node",
+    "/home/thiago/ros2_ws/install/not_class_node/lib/python3.8/site-packages",
+    "/home/thiago/ros2_ws/install/msg_srv_test/lib/python3.8/site-packages",
+    "/home/thiago/ros2_ws/install/interface_example/lib/python3.8/site-packages",
+    "/opt/ros/foxy/lib/python3.8/site-packages"
+  ]
+}

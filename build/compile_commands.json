@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/gcc -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_fastrtps_c__pyext_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py -I/usr/include/python3.8 -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_cpp -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_cpp -I/opt/ros/foxy/include/builtin_interfaces/msg/dds_fastrtps_c -I/opt/ros/foxy/include/builtin_interfaces/srv/dds_fastrtps_c -I/opt/ros/foxy/include/builtin_interfaces/action/dds_fastrtps_c -isystem /opt/ros/foxy/include -isystem /opt/ros/foxy/include/foonathan_memory  -g -fPIC   -Wall -Wextra -std=gnu99 -o CMakeFiles/ydlidar_test__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_fastrtps_c.c.o   -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_fastrtps_c.c",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_fastrtps_c.c"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/gcc -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__python_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py -I/usr/include/python3.8 -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_c -isystem /opt/ros/foxy/include  -g -fPIC   -Wall -Wextra -std=gnu99 -o CMakeFiles/ydlidar_test__python.dir/rosidl_generator_py/ydlidar_test/msg/_laser_fan_s.c.o   -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py/ydlidar_test/msg/_laser_fan_s.c",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py/ydlidar_test/msg/_laser_fan_s.c"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/g++  -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_introspection_cpp_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_cpp -isystem /opt/ros/foxy/include  -g -fPIC   -Wall -std=c++14 -o CMakeFiles/ydlidar_test__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ydlidar_test/msg/detail/laser_fan__type_support.cpp.o -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_introspection_cpp/ydlidar_test/msg/detail/laser_fan__type_support.cpp",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_introspection_cpp/ydlidar_test/msg/detail/laser_fan__type_support.cpp"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/g++  -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_c_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_c -isystem /opt/ros/foxy/include  -g -fPIC   -Wall -std=c++14 -o CMakeFiles/ydlidar_test__rosidl_typesupport_c.dir/rosidl_typesupport_c/ydlidar_test/msg/laser_fan__type_support.cpp.o -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_c/ydlidar_test/msg/laser_fan__type_support.cpp",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_c/ydlidar_test/msg/laser_fan__type_support.cpp"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/gcc -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_introspection_c__pyext_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py -I/usr/include/python3.8 -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_introspection_c -isystem /opt/ros/foxy/include  -g -fPIC   -Wall -Wextra -std=gnu99 -o CMakeFiles/ydlidar_test__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_introspection_c.c.o   -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_introspection_c.c",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_introspection_c.c"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/g++  -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_fastrtps_c_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_cpp -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_cpp -I/opt/ros/foxy/include/builtin_interfaces/msg/dds_fastrtps_c -I/opt/ros/foxy/include/builtin_interfaces/srv/dds_fastrtps_c -I/opt/ros/foxy/include/builtin_interfaces/action/dds_fastrtps_c -isystem /opt/ros/foxy/include -isystem /opt/ros/foxy/include/foonathan_memory  -g -fPIC   -Wall -Wextra -Wpedantic -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/ydlidar_test__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ydlidar_test/msg/detail/laser_fan__type_support_c.cpp.o -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_c/ydlidar_test/msg/detail/laser_fan__type_support_c.cpp",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_c/ydlidar_test/msg/detail/laser_fan__type_support_c.cpp"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/gcc -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_introspection_c_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_introspection_c -isystem /opt/ros/foxy/include  -g -fPIC   -Wall -std=gnu11 -o CMakeFiles/ydlidar_test__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ydlidar_test/msg/detail/laser_fan__type_support.c.o   -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_introspection_c/ydlidar_test/msg/detail/laser_fan__type_support.c",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_introspection_c/ydlidar_test/msg/detail/laser_fan__type_support.c"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/g++  -DFOONATHAN_MEMORY=1 -DFOONATHAN_MEMORY_VERSION_MAJOR=0 -DFOONATHAN_MEMORY_VERSION_MINOR=7 -DFOONATHAN_MEMORY_VERSION_PATCH=1 -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_fastrtps_cpp_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_cpp -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_cpp -isystem /opt/ros/foxy/include -isystem /opt/ros/foxy/include/foonathan_memory  -g -fPIC   -Wall -Wextra -Wpedantic -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/ydlidar_test__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ydlidar_test/msg/detail/dds_fastrtps/laser_fan__type_support.cpp.o -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_cpp/ydlidar_test/msg/detail/dds_fastrtps/laser_fan__type_support.cpp",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_fastrtps_cpp/ydlidar_test/msg/detail/dds_fastrtps/laser_fan__type_support.cpp"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/gcc -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_c__pyext_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py -I/usr/include/python3.8 -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_c -isystem /opt/ros/foxy/include  -g -fPIC   -Wall -Wextra -std=gnu99 -o CMakeFiles/ydlidar_test__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_c.c.o   -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_c.c",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_py/ydlidar_test/_ydlidar_test_s.ep.rosidl_typesupport_c.c"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/g++  -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_typesupport_cpp_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_cpp -isystem /opt/ros/foxy/include  -g -fPIC   -Wall -std=c++14 -o CMakeFiles/ydlidar_test__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ydlidar_test/msg/laser_fan__type_support.cpp.o -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_cpp/ydlidar_test/msg/laser_fan__type_support.cpp",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_typesupport_cpp/ydlidar_test/msg/laser_fan__type_support.cpp"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/gcc -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -Dydlidar_test__rosidl_generator_c_EXPORTS -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c -isystem /opt/ros/foxy/include  -g -fPIC   -Wall -std=gnu11 -o CMakeFiles/ydlidar_test__rosidl_generator_c.dir/rosidl_generator_c/ydlidar_test/msg/detail/laser_fan__functions.c.o   -c /home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c/ydlidar_test/msg/detail/laser_fan__functions.c",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/build/rosidl_generator_c/ydlidar_test/msg/detail/laser_fan__functions.c"
+},
+{
+  "directory": "/home/thiago/ros2_ws/src/ydlidar_test/build",
+  "command": "/usr/bin/g++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\\\"ydlidar_test\\\" -DSPDLOG_COMPILED_LIB -I/home/thiago/ros2_ws/src/ydlidar_test -I/home/thiago/ros2_ws/src/ydlidar_test/src -I/usr/local/include/src -I/opt/ros/noetic/include -isystem /opt/ros/foxy/include  -g   -std=c++14 -o CMakeFiles/ydlidar_driver.dir/src/ydlidar_ros_driver.cpp.o -c /home/thiago/ros2_ws/src/ydlidar_test/src/ydlidar_ros_driver.cpp",
+  "file": "/home/thiago/ros2_ws/src/ydlidar_test/src/ydlidar_ros_driver.cpp"
+}
+]

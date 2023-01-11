@@ -1,0 +1,6 @@
+{
+  "package_name": "ydlidar_test",
+  "non_idl_tuples": [
+    "/home/thiago/ros2_ws/src/ydlidar_test:msg/LaserFan.msg"
+  ]
+}
